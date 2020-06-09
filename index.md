@@ -1,3 +1,3 @@
 *Getting started*
 
-![](./images/logo.png =250x250)
+![](images/logo.png)
