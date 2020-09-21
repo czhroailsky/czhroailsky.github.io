@@ -1,6 +1,6 @@
 # Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness
 
-![alt text](https://github.com/czhroailsky/czhroailsky.github.io/tree/master/images/2020-09-21-other-minds/cover_book.png)
+![book cover](https://github.com/czhroailsky/czhroailsky.github.io/master/images/2020-09-21-other-minds/cover_book.png)
 
 <p>
 <div style="text-align: justify">
