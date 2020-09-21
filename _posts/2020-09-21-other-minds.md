@@ -1,6 +1,6 @@
 # Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness
 
-![](images/2020-09-21-other-minds/cover_book.png)
+![](../images/2020-09-21-other-minds/cover_book.png)
 
 <p>
 <div style="text-align: justify">
@@ -35,7 +35,7 @@ The book is far for being perfect at some parts, we can find very well written d
 
 ## Wheel of morality
 
-![](images/wheel_of_morality.png)
+![](../images/wheel_of_morality.png)
 
 <p>
 <div style="text-align: justify">
@@ -43,4 +43,4 @@ If Albert Einstein had been an octopus, he would have only had two years to deve
 </div>
 </p>
 
-![](images/2020-09-21-other-minds/octonstein.png)
+![](../images/2020-09-21-other-minds/octonstein.png)
