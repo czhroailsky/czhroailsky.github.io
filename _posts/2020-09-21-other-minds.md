@@ -43,4 +43,4 @@ If Albert Einstein had been an octopus, he would have only had two years to deve
 </div>
 </p>
 
-![](../images/2020-09-21-other-minds/octonstein.png)
+![](../images/2020-09-21-other-minds/octonstein.png | height = 100px)
