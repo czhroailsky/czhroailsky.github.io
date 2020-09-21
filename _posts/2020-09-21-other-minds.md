@@ -41,11 +41,9 @@ The book is far for being perfect at some parts, we can find very well written d
   <img src="https://raw.githubusercontent.com/czhroailsky/czhroailsky.github.io/master/images/wheel_of_morality.gif" alt="wheel_of_morality" width="400"/>
 </p>
 
-<p>
-<div style="text-align: justify">
-If Albert Einstein had been an octopus, he would have only had two years to develop the theory of relativity and discover the photoelectric effect.
-</div>
-</p>
+
+> If Albert Einstein had been an octopus, he would have only had two years to develop the theory of relativity and discover the photoelectric effect.
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/czhroailsky/czhroailsky.github.io/master/images/2020-09-21-other-minds/octonstein.png" alt="octonstein" width="400"/>
