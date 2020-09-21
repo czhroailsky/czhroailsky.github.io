@@ -1,6 +1,8 @@
 # Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness
 
-![](../images/2020-09-21-other-minds/cover_book.png)
+<p align="center">
+  <img src="../images/2020-09-21-other-minds/cover_book.png" alt="octonstein"/>
+</p>
 
 <p>
 <div style="text-align: justify">
