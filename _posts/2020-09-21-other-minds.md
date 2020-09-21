@@ -1,6 +1,6 @@
 # Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness
 
-![book cover](https://github.com/czhroailsky/czhroailsky.github.io/blob/master/images/2020-09-21-other-minds/cover_book.png)
+![book cover](images/2020-09-21-other-minds/cover_book.png)
 
 <p>
 <div style="text-align: justify">
@@ -31,3 +31,16 @@ In the last part, there is a section about aging, some theories about the evolut
 The book is far for being perfect at some parts, we can find very well written descriptions of the topics, and in others, there is a lack of information to follow correctly what the author is trying to explain. I encourage you to read the book if you have some interest in knowing more about the octopuses from different perspectives but, I don't recommend it for those who are looking for a more deep discussion about consciousness and thinking. I recommend reading the references at the end of the book, especially the ones about consciousness and evolution.
 </div>
 </p>
+
+
+## Wheel of morality
+
+![wheel of morality](images/wheel_of_morality.png)
+
+<p>
+<div style="text-align: justify">
+If Albert Einstein had been an octopus, he would have only had two years to develop the theory of relativity and discover the photoelectric effect.
+</div>
+</p>
+
+![octonstein](images/2020-09-21-other-minds/octonstein.png)
