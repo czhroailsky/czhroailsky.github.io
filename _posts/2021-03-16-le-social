@@ -1,0 +1,16 @@
+Recientemente e ingresado a instagram más de lo que debería, alguien especial para mi dejo de hablarme y revisaba la aplicación cada cinco minutos (spoilert alert nunca volvió a responder (esto deberia funcionar como un blog terapeutico o algo así (no es cierto :p))).
+El acceder multiples veces me ha hecho preguntarme como funciona la applicación, no dejaba de mostrarme contenido del estilo depresión, como cuando estás triste y escuchas canciones tristes jaja, 
+bueno el caso es que dependiendo de tus ultimas interacciones la plataforma selecciona un conjunto de imágenes que mostrate en la sección explorar (esas son las recomendaciones, y sí, soy culpable de buscar esa clase de contenido :| (pero solo fue una vez)) con el objetivo de tenerte más tiempo en la plataforma.
+
+La mía se veia como en la figura de abajo (prometo subir la imagen pronto)
+
+Esta selección no dependia solo de mí, si no de el conjunto de usuarios y los millones de posts relacionados que se hacen diariamente, de acuerdo a varias fuentes (existiendo la posibilidad de que se copiaran entre ellas) estos son algunos de los atributos que la plataforma utiliza para hacer la recomendación.
+
+- Timing: Entre más reciente el post, más importancia tiene para el engine (así es amigo influencer (aunque seguro tu ya lo sabes) no hagas posts en la madrugada ni a las tres de la tarde que son las horas con menos tráfico, confirmo (gráfica de esta distribución pendiente)).
+- Engagement: El número de likes, comentarios y/o vistas. Por ejemplo si en determinado momento sigues más contenido con un determinado tag (depression posting por ejemplo), este tipo de contenido te será sugerido de manera repetida (ya te vi rutinas de ejercicio que vi en enero).
+- Interacciones previas: Que tan frecuente ha sido tu interacción con determinados usuarios en el pasado. Entre más interacción, más posts del usuario observas (una especie de ranking por interacción, aunque aún no estoy seguro si existe exploración y como se hace).
+- Affinity: Qué tan relacionado estas con el usuario. Es un amigo de un amigo, un amigo con el que aún no has conectado o alguien que no conoces.
+
+Me he dado a la tarea de construir un grafo de los usuarios con los que interactuo, aún no termino así que habra una interacción posterior, estoy intentando con la API oficial (que difícil con las n uevas políticas de privacidad) y con un scrip de java para interactuar con el sitio web, pero nada de exito aún :c
+
+He tratado de reducir la red con la que interacvtuao para poder hacer el reversing más interpretable, pero son solo hipótesis, ¿tendre éxito al construirla?, ¿actualizare este post algún día?
