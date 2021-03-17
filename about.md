@@ -1,4 +1,3 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
-
+Un blog para escribir sobre temas random, a veces con fundamento a veces con opinion, lo cool es que hay tanta información en Internet que la probabilidad de que alguien se encuentre con este blog es muy baja :cool_doge: (gif pendiente (pero puede ser el del perro o el de la gallina, aún no lo decido))
