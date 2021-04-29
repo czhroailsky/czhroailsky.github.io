@@ -5,5 +5,5 @@ Hace aproximadamente dos meses estoy seguro de que mi comportamiento en internet
 </p>
 
 <p>
-Para esta narración utilizare de ejemplo instagram, que es la red social en la que más interactuaba con K. En esta red social nunca fui un usuario muy activo, el algoritmo me conocia de otros lados pero no especificamente de allí, él espero pacientemente, él sabia que llegaría y me atraparia eventualmente y que mejor momento que cuando una persona esta en una etapa dominada principalmente por sus emociones, por ejemplo, estar enamorado.
+Para esta narración utilizare de ejemplo instagram, que es la red social en la que más interactuaba con K. En esta red social nunca fui un usuario muy activo, el algoritmo me conocia de otros lados pero no especificamente de allí, él espero pacientemente, él sabia que llegaría y me atraparia eventualmente, suoportunidad llego cuando estaba en una etapa dominada principalmente por mis emociones, me había enamorado. El algoritmo no desperdicia estos momentos
 </p>
