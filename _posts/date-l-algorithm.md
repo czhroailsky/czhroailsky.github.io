@@ -13,5 +13,9 @@ Para que el algoritmo funcione necesita obtener la mayor cantidad de datos sobre
 </p>
 
 <p>
-Para modelar nuestro comportamiento las compañias tienen un conjunto de entrenamiento muy grande y nos tratan de describir de acuerdo a la población cuyo comportamineto es similar al nuestro, así es, hay mucha gente allá afuera a la que le gusta la pizza con piña, de acuerdo a la teoria, entre más datos se tengan para derscribir un fenomeno, mejores modelos se pueden obtener, por eso es importante para las aplicaciones generar adicción, por que para describirte mejor, te necesitan interactuando con ellos la mayor cantidad de tiempo posible. 
+Para modelar nuestro comportamiento las compañias tienen un conjunto de entrenamiento muy grande y nos tratan de describir de acuerdo a la población cuyo comportamineto es similar al nuestro, así es, hay mucha gente allá afuera a la que le gusta la pizza con piña, de acuerdo a la teoria, entre más datos se tengan para derscribir un fenomeno, mejores modelos se pueden obtener, por eso es importante para las aplicaciones generar adicción, por que para describirte mejor, te necesitan interactuando con ellos la mayor cantidad de tiempo posible. Las compañias de redes sociales obtienen sus ganancias al vender espacios para publicidad y vendiendo los datos, así que entre más tiempo estemos en línea, más dinero hacen. 
 </p>
+
+<p>
+  
+<p/>
