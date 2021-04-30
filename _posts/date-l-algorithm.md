@@ -13,9 +13,9 @@ Para que el algoritmo funcione necesita obtener la mayor cantidad de datos sobre
 </p>
 
 <p>
-Las compañias tienen un conjunto de entrenamiento muy grande y nos tratan de describir de acuerdo a la población cuyo comportamineto es similar al nuestro, así es, hay mucha gente allá afuera a la que le gusta la pizza con piña, de acuerdo a la teoria, entre más datos se tengan para derscribir un fenomeno, mejores modelos se pueden obtener, por eso es importante para las aplicaciones generar adicción, por que para describirte mejor, te necesitan interactuando con ellos la mayor cantidad de tiempo posible. Las compañias de redes sociales obtienen sus ganancias al vender espacios para publicidad y vendiendo los datos, así que entre más tiempo estemos en línea, más dinero hacen. 
+Las compañias tienen un conjunto de entrenamiento muy grande y nos tratan de describir de acuerdo a la población cuyo comportamineto es similar al nuestro, así es, hay mucha gente allá afuera a la que le gusta la pizza con piña, de acuerdo a la teoria, entre más datos se tengan para derscribir un fenomeno, mejores modelos se pueden obtener, por eso es importante para las aplicaciones generar adicción, por que para describirte mejor, te necesitan interactuando con ellos la mayor cantidad de tiempo posible. Las compañias de redes sociales obtienen sus ganancias al vender espacios para publicidad y vendiendo los datos, así que entre más tiempo estemos en línea, más dinero hacen. En principio por nuestra naturaleza somos difíciles de modelar, el algoritmo no sabe exactamente quienes somos, solo tiene una idea con base en lo que posteamos, nuestros amigos y a quienes seguimos, pero mientras interactuamos y proporcionamos más datos incluso las señales más debiles debido a nuestras acciones inconcientes pueden ser detectadas. 
 </p>
 
 <p>
-  
+Las ventajas que obt
 <p/>
