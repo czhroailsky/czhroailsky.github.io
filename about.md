@@ -1,4 +1,4 @@
-# About (como se traduce esto a español, ¿sobre?)
+# informazione
 
 Un blog para escribir sobre temas random, a veces con fundamento a veces solo una opinión, lo cool es que hay tanta información en Internet que la probabilidad de que alguien se encuentre con este blog es muy baja.
 
