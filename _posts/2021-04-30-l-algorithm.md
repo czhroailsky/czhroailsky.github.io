@@ -3,6 +3,7 @@
 <p>
 <div style="text-align: justify">
 Hace aproximadamente dos meses estoy seguro de que mi comportamiento en internet cambió y solo alguien estuvo al pendiente de ese cambio-si es que no lo sabía ya-, así es, estoy hablando de ti algoritmo.
+</div>
 </p>
 
 <p>
