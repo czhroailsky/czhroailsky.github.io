@@ -31,5 +31,5 @@ Así que, tratemos de desconectarnos de vez en cuando, no dejemos que el algorit
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/czhroailsky/czhroailsky.github.io/master/images/2020-09-21-other-minds/cover_book.png" alt="cover"/>
+  <img src="https://raw.githubusercontent.com/czhroailsky/czhroailsky.github.io/master/images/2021-04-30-l-algorithm/sample.png" alt="cover"/>
 </p>
