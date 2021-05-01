@@ -17,5 +17,5 @@ Las compañias tienen un conjunto de entrenamiento muy grande y nos tratan de de
 </p>
 
 <p>
-Las ventajas que obt
+Las ventajas que obtenemos de estar conectados parecen ser más que las desventajas, a todos nos gusta saber de nuestros amigas y amigos, internet elimina la barrera geografica y nos permite interactuar con gente de otras culturas, otros perfiles academicos, y gustos similares, etc. Las desventajas no son tan obvias, e incluso lo que consideramos como ventaja es lo que el algoritmo usa para mantenernos conectados, para las compañias nosotros somos el producto y para mantenerter online, tiene que mantener a toda la gente que te interesa online.
 <p/>
