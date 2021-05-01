@@ -1,4 +1,4 @@
-#il sociale
+# il sociale
 
 ¿Quieren leer una historia?, cuando un individuo X te propone escoger la opción A y en su lugar escoges la B y no resulta como esperabas,  se genera un sentimiento de culpa al haber preferido B y nos hace figurar que quizá el haber escogido A hubiera sido mejor, aunque no exista evidencia real de que hubiera sido mejor, esto de alguna forma incrementa nuestra confianza en las recomendaciones futuras del individuo X, que pasa con este traslado de no confiar a confiar, una vez platicando con alguien me dijo que desde su perspectiva lo que dijera no debería de tener ninguna influencia en mi, ni positiva ni negativa, que ese era un superpoder que ninguna persona tiene, muchos críticos de la publicidad podrían estar de acuerdo con esta perspectiva ya que no debería de haber nada de malo en describir las situaciones nada más y nada menos que con hechos, pero qué hay de la interacción con otras personas, en realidad existe algo como los "hechos" es decir, ¿hay manera de describir sucesos sin agregar sesgo?
 
