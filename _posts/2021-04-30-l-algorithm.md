@@ -30,6 +30,10 @@ Las ventajas que obtenemos de estar conectados parecen ser más que las desventa
 Así que, tratemos de desconectarnos de vez en cuando, no dejemos que el algoritmo nos conozca bien, no le permitamos conocer nuestros detonadores, no nos enganchemos en peleas con entidades de internet, no busquemos consuelo en frases motivadoras que en su mayoría están vacías, conectemos de nuevo con nuestro entorno y amigos, si un día deciden desconectarse no se preocupen yo los voy a buscar en el mundo real para conversar, cooperar y compartir.
 </p>
 
+<p>
+Últimamente he estado reforzando al algoritmo para mostrar imágenes de pingüinos, la mejor decisión de mi vida. (｡^‿^｡)
+</p>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/czhroailsky/czhroailsky.github.io/master/images/2021-04-30-l-algorithm/sample.png" alt="cover"/>
+  <img src="https://raw.githubusercontent.com/czhroailsky/czhroailsky.github.io/master/images/2021-04-30-l-algorithm/sample.png" alt="cover" width="300" height="400"/>
 </p>
