@@ -29,3 +29,7 @@ Las ventajas que obtenemos de estar conectados parecen ser más que las desventa
 <div style="text-align: justify">
 Así que, tratemos de desconectarnos de vez en cuando, no dejemos que el algoritmo nos conozca bien, no le permitamos conocer nuestros detonadores, no nos enganchemos en peleas con entidades de internet, no busquemos consuelo en frases motivadoras que en su mayoría están vacías, conectemos de nuevo con nuestro entorno y amigos, si un día deciden desconectarse no se preocupen yo los voy a buscar en el mundo real para conversar, cooperar y compartir.
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czhroailsky/czhroailsky.github.io/master/images/2020-09-21-other-minds/cover_book.png" alt="cover"/>
+</p>
