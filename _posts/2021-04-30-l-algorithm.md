@@ -23,7 +23,7 @@ Las compañías tienen un conjunto de entrenamiento muy grande y nos tratan de d
 <p>
 <div style="text-align: justify">
 Las ventajas que obtenemos de estar conectados parecen ser más que las desventajas, a todos nos gusta saber que nuestras amigas y amigos están bien, internet elimina la barrera geográfica y nos permite interactuar con gente de otras culturas, otros perfiles académicos, gustos similares, etc. Las desventajas no son tan obvias, e incluso lo que consideramos como ventaja es lo que el algoritmo usa para mantenernos conectados, para las compañías nosotros somos el producto y para mantenerte online, tiene que mantener a toda la gente que te interesa online. Una manera de alejarse de él es desconectarse, yo personalmente lo intente varias veces pero al ser el único lugar donde aún mantenía contacto con algunos amigos me rendí y volví. En este momento estoy tomando el enfoque de "consumidor social", como cuando decimos que solo consumimos alcohol en eventos sociales, no la considero la mejor solución, pero de alguna manera el estar consciente de que algo te observa limita las acciones que llegas a tomar.
-<p/>
+</p>
   
 <p>
 <div style="text-align: justify">
