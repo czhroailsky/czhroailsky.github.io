@@ -15,5 +15,5 @@
 <p>
   <div style="text-align: justify">
     ¿Ustedes creen que si todos iniciaramos nuestra vida bajo las mismas condiciones, y tuviéramos las mismas oportunidades seriamos todos felices?, ¿viviriamos en la soñada utopia?. Es un tanto dificil el encontrar desde que punto todos deberiamos haber iniciado igual, o lo que es lo mismo cuando una fraccion muy pequeña de los individuos empezo a acumular la mayor cantidad de recursos, en algun punto de la historia se llevo a cabo la separación pero cual habrá sido este evento, tal vez fue en la sociedad cazadora/recolectora, o fue en la revolución industrial, o al separarse las moleculas para generar el árbol de la vida.
-  <\dic>
+  <\div>
 </p>
