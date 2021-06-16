@@ -20,7 +20,7 @@
 
 <p>
 <div style="text-align: justify">
-  Con esto no sugiero que debemos incrementar el número de encuentros que tenemos o que debemos tener más amigos. A lo que me refiero es que debemos concentrarnos en un solo encuentro, y construir una relacion significativa. Lo que es importante no es el número de conexiones, sino su profundidad.
+  Con esto no sugiero que debemos incrementar el número de encuentros que tenemos o que debemos tener más amigos. A lo que me refiero es que debemos concentrarnos en un solo encuentro, y construir una relacion significativa. Lo que es importante no es el número de conexiones, lo es su profundidad.
 </div>
 </p>
 
