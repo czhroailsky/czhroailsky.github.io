@@ -14,7 +14,7 @@
 
 <p>
   <div style="text-align: justify">
-    Existe un dicho que se origina en la perspectiva Zen: *ichi-go ichi-e*, o en español *'una vez en la vida'*. Esto significa que debemos atesorar cada uno de los encuentros que tengamos, por que conocemos a las personas solamente una vez en la vida.
+    Existe un dicho que se origina en la perspectiva Zen: ichi-go ichi-e, o en español 'una vez en la vida'. Esto significa que debemos atesorar cada uno de los encuentros que tengamos, por que conocemos a las personas solamente una vez en la vida.
   </div>
 </p>
 
