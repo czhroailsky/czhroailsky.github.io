@@ -23,3 +23,7 @@
   Con esto no sugiero que debemos incrementar el número de encuentros que tenemos o que debemos tener más amigos. A lo que me refiero es que debemos concentrarnos en un solo encuentro, y construir una relacion significativa. Lo que es importante no es el número de conexiones, sino su profundidad.
 </div>
 </p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/czhroailsky/czhroailsky.github.io/master/images/2021-06-16-connessione/rock_bridge.jpg" alt="cover" width="300" height="400"/>
+</p>
